@@ -8,7 +8,7 @@ package View.NhanVien.View;
  *
  * @author hnhut
  */
-import View.nhanVien.NhanVienCard;
+//import View.nhanVien.NhanVienCard;
 import Model.nhanVien;
 import javax.swing.*;
 import java.awt.*;

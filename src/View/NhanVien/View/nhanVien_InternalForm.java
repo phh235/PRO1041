@@ -4,7 +4,7 @@
  */
 package View.NhanVien.View;
 
-import View.nhanVien.NhanVienCard;
+//import View.nhanVien.NhanVienCard;
 import com.pro1041.dao.DAO_nhanVien;
 import java.awt.Component;
 import java.awt.GridLayout;

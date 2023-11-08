@@ -4,7 +4,7 @@
  */
 package View.NhanVien.View;
 
-import View.nhanVien.nhanVien_InternalForm;
+//import View.nhanVien.nhanVien_InternalForm;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.Toolkit;
